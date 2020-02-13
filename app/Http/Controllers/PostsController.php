@@ -41,7 +41,7 @@ class PostsController extends Controller
     }
 
     /**
-     * Display the specified resource.
+     * Display the specified resourcesssssssss.
      *
      * @param  int  $id
      * @return \Illuminate\Http\Response
