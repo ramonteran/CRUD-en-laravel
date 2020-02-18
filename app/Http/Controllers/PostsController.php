@@ -41,7 +41,7 @@ class PostsController extends Controller
     }
 
     /**
-     * Display the specified resourcesssssssss.
+     * Display the specified resources.
      *
      * @param  int  $id
      * @return \Illuminate\Http\Response
@@ -52,7 +52,7 @@ class PostsController extends Controller
     }
 
     /**
-     * Shows the form for editing the specified resource.
+     * Show the form for editing the specified resource.
      *
      * @param  int  $id
      * @return \Illuminate\Http\Response
